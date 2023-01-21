@@ -1,0 +1,25 @@
+[
+  {
+    "channelWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+        "1059315258499547177//proposals channel": 3
+      }
+    },
+    "guildId": "1026467509982986271",
+    "includeNsfwChannels": false,
+    "propsChannels": [
+    ],
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+      }
+    },
+    "roleWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+      }
+    }
+  }
+]
