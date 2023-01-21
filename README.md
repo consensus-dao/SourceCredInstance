@@ -53,6 +53,7 @@ to main and using the Github Action.
 1. Use a **git** client to clone your new repo locally.
 
 1. Get [Yarn], navigate to the cloned repo directory in a terminal, and then run `yarn` to install SourceCred and dependencies.
+  * MacOS: `CXXFLAGS="--std=c++17" yarn install`
 
 1. Enable the plugins you want to use by adding them to the `bundledPlugins` array in the `sourcecred.json` file. To disable a plugin, simply remove it. For example,
    to enable all the plugins:
