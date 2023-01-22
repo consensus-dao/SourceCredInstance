@@ -1,5 +1,7 @@
 # SourceCred Template Instance
 
+<https://consensus-dao.github.io/SourceCredInstance/#/explorer>
+
 This repository contains a template for running a SourceCred instance.
 
 New users of SourceCred are encouraged to use this template repo to start their own
