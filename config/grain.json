@@ -11,5 +11,5 @@
       "discount": 0.4
     }
   ],
-  "maxSimultaneousDistributions": 1
+  "maxSimultaneousDistributions": 10
 }
